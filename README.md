@@ -11,12 +11,12 @@
 
 # Objective
 
-<img width="964" alt="Regular Expressions, Patterns in Java" src="https://github.com/RegularExpressionsPatternsJava/blob/master/image/rg0.png">
+<img width="764" alt="Regular Expressions Patterns in Java" src="https://github.com/jaimehernan95/RegularExpressionsPatternsJava/blob/main/image/rg0.png">
 
-
+https://github.com/jaimehernan95/RegularExpressionsPatternsJava/blob/main/image/rg0.png
 
 # Result
 
-<img width="964" alt="Regular Expressions, Patterns in Java" src="https://github.com/RegularExpressionsPatternsJava/blob/master/image/rg1.png">
+<img width="764" alt="Regular Expressions, Patterns in Java" src="https://github.com/jaimehernan95/RegularExpressionsPatternsJava/blob/main/image/rg1.png">
 
 
